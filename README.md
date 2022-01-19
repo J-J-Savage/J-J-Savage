@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @J-J-Savage
+- 👀 I’m interested in ... becoming a professional software dev.
+- 🌱 I’m currently learning ... intro coding
+- 💞️ I’m looking to collaborate on ... learning coding
+- 📫 How to reach me ... justsavage@outlook.com
